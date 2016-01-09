@@ -1,3 +1,4 @@
 print_r("Hello world");
 print_r("Hello everybody");
 print_r("Hi");
+rpint_r("What do you do peace of shit?");
