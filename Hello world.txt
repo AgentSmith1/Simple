@@ -1,5 +1,8 @@
-print_r("Hello world");
-print_r("Hello everybody");
-print_r("Hi");
-print_r("Glad to see you");
+
+print_r("Hi;");
+print_r("Glad to see you;");
 rpint_r("What do you do peace of shit?");
+print_r("Hello world;");
+print_r("Hello everybody;");
+print_r("Hi;");
+
